@@ -1,0 +1,11 @@
+from,to,weight,duration,relationship
+Ego,Leo,3,3,10
+Ego,Leonie,4,2,10
+Ego,Regina,4,3,1
+Ego,Julia,4,1,6
+Leo,Ego,3,3,10
+Leo,Regina,2,3,10
+Leonie,Ego,4,2,10
+Leonie,Regina,4,2,10
+Regina,Ego,4,3,1
+Julia,Ego,4,1,6
